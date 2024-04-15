@@ -1,7 +1,7 @@
 ### Hi there 👋
-#🌱 I’m currently learning HTML, CSS, Javascript
+🌱 I’m currently learning HTML, CSS, Javascript
 
-#📫 How to reach me: celine.mang@vanderbilt.edu
+📫 How to reach me: celine.mang@vanderbilt.edu
 
 <!--
 **celinemang/celinemang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
