@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi This is Celine Mang
 🌱 I’m currently learning HTML, CSS, Javascript
 
 📫 How to reach me: celine.mang@vanderbilt.edu
