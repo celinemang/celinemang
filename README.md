@@ -1,5 +1,5 @@
 ### Hi This is Celine Mang
-🌱 I’m currently learning HTML, CSS, Javascript
+🌱 I’m currently learning Spring boot
 
 📫 How to reach me: celine.mang@vanderbilt.edu
 
