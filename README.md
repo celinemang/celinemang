@@ -2,6 +2,7 @@
 🌱 I’m currently learning Spring boot
 
 📫 How to reach me: celine.mang@vanderbilt.edu
+Check out https://celinemang.github.io
 
 <!--
 **celinemang/celinemang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
